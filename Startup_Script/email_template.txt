@@ -1,0 +1,20 @@
+Hello {recipient_name},
+
+My name is {member}, and I am the Director of Finance at Startup Laurier. 
+Startup Laurier is an established entrepreneurship club at Wilfrid Laurier University, whose goal is 
+to empower students to pursue their entrepreneurial ambitions by providing numerous resources and opportunities.
+This upcoming winter term, we are running our annual Winternship program! 
+Winternship is a program that we facilitate where we connect amazing startups like 
+{startup_name} to Laurier talent! It gives the opportunity for students to work 
+unpaid part-time positions during the Winter term (January to April) to gain work experience.
+If you're interested, let me know, and we will schedule a quick zoom meeting to discuss logistics and next steps. 
+We have attached our Winternship Employer Package with additional information.
+ If you have any questions or concerns, please feel free to reach out.
+
+Have a great day,
+
+--
+{member} | Director of Finance
+Lazaridis Students' Society
+Lazaridis School of Business & Economics
+Wilfrid Laurier University
